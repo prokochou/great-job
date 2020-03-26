@@ -104,6 +104,19 @@ body{
     color: #007bff;
 }
 
+
+#chinese-sentence{
+    font-size: 1.2rem;
+    margin-right: 0.3rem;
+    color: #0062cc;
+}
+
+#english-news{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+
+
 .col{
     border: solid 1px #e9ecef99;
     padding: 10px 30px;
@@ -112,5 +125,6 @@ body{
 #conversation{
     font-size: 1.2rem;
 }
+
 
 
