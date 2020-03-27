@@ -94,15 +94,24 @@ body{
     color: grey;
 }
 
-#chinese-text{
+#container_basic #chinese-text{
     font-size: 1.2rem;
     margin-right: 0.3rem;
 }
 
-#english-text{
+#container_basic #english-text{
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
     color: #007bff;
 }
+
+
+
+#container_news #chinese-text{
+    font-size: 1.2rem;
+    margin-right: 0.3rem;
+    color: #343a40b5;
+}
+
 
 
 #chinese-sentence{
@@ -119,6 +128,7 @@ body{
 
 #english-news{
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #343a40b5;
 
 }
 
