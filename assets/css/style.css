@@ -108,7 +108,13 @@ body{
 #chinese-sentence{
     font-size: 1.2rem;
     margin-right: 0.3rem;
-    color: #0062cc;
+    color: #000000b5;
+}
+
+.chinese-sentence{
+    font-size: 1.2rem;
+    margin-right: 0.3rem;
+    color: #000000b5;
 }
 
 #english-news{
@@ -117,8 +123,12 @@ body{
 }
 
 
-.col{
+#container_basic .col{
     border: solid 1px #e9ecef99;
+    padding: 10px 30px;
+}
+
+#container_news .col{
     padding: 10px 30px;
 }
 
