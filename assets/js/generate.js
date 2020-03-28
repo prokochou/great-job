@@ -20,7 +20,7 @@ $(document).ready(function(){
 	$(function() {
 		var people = [];
 
-   		$.getJSON('template.json', function(data) {
+   		$.getJSON('assets/js/template.json', function(data) {
 
 	       $.each(data.person, function(i, f) {
 	          var tblRow = "<tr>" + "<td>" + f.firstName + "</td>" +
