@@ -146,11 +146,21 @@ body{
     font-size: 1.2rem;
 }
 
-.plan-new .btn-primary1 {
+.plan-new .add{
     color: #212529;
     background-color: #fff;
-    border-color: #FF7F00;
+    border-color: #0000004a;
     display: inline;
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.plan-new .create{
+    color: #212529;
+    background-color: #fff;
+    display: inline;
+    border-color: #FF7F00;
     float: right;
     margin-top: 20px;
     margin-right: 10px;
